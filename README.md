@@ -6,15 +6,10 @@ The Mask R-CNN code were downloaded from the open-source object detection toolbo
 The SNIC code were downloaded from the GitHub repository: https://github.com/ertugrulqayibov/GEE-SNIC-and-Canny.
 
 1. UNet 3+ Model
-
 U_train.py: the training script for the UNet 3+ model;
-
 U_predict.py: the prediction script for the UNet 3+ model;
-
 U_val.py: the validation script for the UNet 3+ model;
-
 model_def.py: the model definition file for UNet 3+;
-
 UnetPlus3.py: the PyTorch implementation of the UNet 3+ model architecture.
 
 2. DeepLabv3+ Model
