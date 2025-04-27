@@ -32,5 +32,7 @@ significance test.py: the script for McNemar test.<br>
 The non-sensitive data were provided in the data folder.<br>
 Annotated_vegetation_in_shadows: all training  raw datasets for shadow detection.<br>
 Annotated_tree_species: example datasets for tree species classification.<br>
+Imagery_demo: two examples of Pléiades Neo 4 satellite imagery over Nanjing. This data could be downloaded from Google Drive:
+https://drive.google.com/drive/folders/1GeTSv4cS9e83Df6l-yTT1PLOwpIuM6K1?usp=sharing
 
 For access to the confidential data, please contact us with a reasonable statement for your request. We are willing to assist you in submitting an application for data access approval.
