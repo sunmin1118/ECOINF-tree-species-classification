@@ -1,2 +1,3 @@
-#demo for Annotated tree species
-#demo for Annotated vegetation in shadow areas
+#The non-sensitive data were provided in the data folder.
+#Annotated_vegetation_in_shadows: all training  raw datasets for shadow detection.
+#Annotated_tree_species: example datasets for tree species classification.
