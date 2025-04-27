@@ -1,16 +1,16 @@
 # ECOINF-D-25-00627
 Datasets and code for ECOINF-D-25-00627
-The full set of supporting files for UNet 3+ can be downloaded from the GitHub repository: https://github.com/bubbliiiing/unet-pytorch/tree/main.
-The DeepLabv3+ code were downloaded from the open-source semantic segmentation toolbox: https://github.com/open-mmlab/mmsegmentation.
-The Mask R-CNN code were downloaded from the open-source object detection toolbox: https://github.com/open-mmlab/mmdetection.
-The SNIC code were downloaded from the GitHub repository: https://github.com/ertugrulqayibov/GEE-SNIC-and-Canny.
+The full set of supporting files for UNet 3+ can be downloaded from the GitHub repository: https://github.com/bubbliiiing/unet-pytorch/tree/main.<br>
+The DeepLabv3+ code were downloaded from the open-source semantic segmentation toolbox: https://github.com/open-mmlab/mmsegmentation.<br>
+The Mask R-CNN code were downloaded from the open-source object detection toolbox: https://github.com/open-mmlab/mmdetection.<br>
+The SNIC code were downloaded from the GitHub repository: https://github.com/ertugrulqayibov/GEE-SNIC-and-Canny.<br>
 
 1. UNet 3+ Model
-U_train.py: the training script for the UNet 3+ model;
-U_predict.py: the prediction script for the UNet 3+ model;
-U_val.py: the validation script for the UNet 3+ model;
-model_def.py: the model definition file for UNet 3+;
-UnetPlus3.py: the PyTorch implementation of the UNet 3+ model architecture.
+U_train.py: the training script for the UNet 3+ model;<br>
+U_predict.py: the prediction script for the UNet 3+ model;<br>
+U_val.py: the validation script for the UNet 3+ model;<br>
+model_def.py: the model definition file for UNet 3+;<br>
+UnetPlus3.py: the PyTorch implementation of the UNet 3+ model architecture.<br>
 
 3. DeepLabv3+ Model
 
