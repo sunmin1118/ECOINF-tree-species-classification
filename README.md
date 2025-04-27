@@ -1,9 +1,9 @@
-# ECOINF-D-25-00627
-Datasets and code for ECOINF-D-25-00627<br>
+# ECOINF-tree-species-classification
+
 The full set of supporting files for UNet 3+ can be downloaded from the GitHub repository: https://github.com/bubbliiiing/unet-pytorch/tree/main.
-The DeepLabv3+ code were downloaded from the open-source semantic segmentation toolbox: https://github.com/open-mmlab/mmsegmentation.
-The Mask R-CNN code were downloaded from the open-source object detection toolbox: https://github.com/open-mmlab/mmdetection.
-The SNIC code were downloaded from the GitHub repository: https://github.com/ertugrulqayibov/GEE-SNIC-and-Canny.
+The DeepLabv3+ code was downloaded from the open-source semantic segmentation toolbox: https://github.com/open-mmlab/mmsegmentation.
+The Mask R-CNN code was downloaded from the open-source object detection toolbox: https://github.com/open-mmlab/mmdetection.
+The SNIC code was downloaded from the GitHub repository: https://github.com/ertugrulqayibov/GEE-SNIC-and-Canny.
 
 1. UNet 3+ Model<br>
 U_train.py: the training script for the UNet 3+ model;<br>
