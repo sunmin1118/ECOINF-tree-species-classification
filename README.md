@@ -5,7 +5,7 @@ The DeepLabv3+ code were downloaded from the open-source semantic segmentation t
 The Mask R-CNN code were downloaded from the open-source object detection toolbox: https://github.com/open-mmlab/mmdetection.
 The SNIC code were downloaded from the GitHub repository: https://github.com/ertugrulqayibov/GEE-SNIC-and-Canny.
 
-1. UNet 3+ Model
+1. UNet 3+ Model<br>
 U_train.py: the training script for the UNet 3+ model;<br>
 U_predict.py: the prediction script for the UNet 3+ model;<br>
 U_val.py: the validation script for the UNet 3+ model;<br>
