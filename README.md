@@ -29,4 +29,8 @@ S_feature_prepare.py: the script for weighted feature preparation;<br>
 S_gbdt_train.py: the training script for the ensemble model;<br>
 significance test.py: the script for McNemar test.<br>
 
+The non-sensitive data were provided in the data folder.<br>
+Annotated_vegetation_in_shadows: all training  raw datasets for shadow detection.<br>
+Annotated_tree_species: example datasets for tree species classification.<br>
+
 For access to the confidential data, please contact us with a reasonable statement for your request. We are willing to assist you in submitting an application for data access approval.
