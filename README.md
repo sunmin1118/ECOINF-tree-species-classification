@@ -26,6 +26,7 @@ schedule_1x.py: the training schedule configuration file for Mask R-CNN.
 4. Ensemble Model
 S_base_train.py: the training script for the four base models;
 S_feature_prepare.py: the script for weighted feature preparation;
-S_gbdt_train.py: the training script for the ensemble model.
+S_gbdt_train.py: the training script for the ensemble model;
+significance test.py: the script for McNemar test.
 
 For access to the confidential data, please contact us with a reasonable statement for your request. We are willing to assist you in submitting an application for data access approval.
