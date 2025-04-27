@@ -12,7 +12,7 @@ U_val.py: the validation script for the UNet 3+ model;
 model_def.py: the model definition file for UNet 3+;
 UnetPlus3.py: the PyTorch implementation of the UNet 3+ model architecture.
 
-2. DeepLabv3+ Model
+3. DeepLabv3+ Model
 
 D_train.py: the training script for the DeepLabv3+ model;
 
