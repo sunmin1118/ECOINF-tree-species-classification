@@ -1,3 +1,4 @@
+#Copyright (c) [2025] Min Sun. All rights reserved.
 import pandas as pd
 from statsmodels.stats.contingency_tables import mcnemar
 
