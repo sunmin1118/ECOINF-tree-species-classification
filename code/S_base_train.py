@@ -1,3 +1,4 @@
+#Copyright (c) [2025] Min Sun. All rights reserved.
 import os
 import numpy as np
 import pandas as pd
