@@ -1,4 +1,1 @@
-#The non-sensitive data were provided in the data folder.
-#Annotated_vegetation_in_shadows: all training  raw datasets for shadow detection.
-#Annotated_tree_species: example datasets for tree species classification.
-#Imagery: two examples of Pléiades Neo 4 satellite imagery over Nanjing. This data could be downloaded from Google Drive: https://drive.google.com/drive/folders/1GeTSv4cS9e83Df6l-yTT1PLOwpIuM6K1?usp=sharing
+The Pléiades Neo 4 imagery data used in this study was obtained with support from the project Research on Carbon Sink Monitoring and Enhancement Strategies for Nanjing’s Urban Green Spaces (funded by the Nanjing Urban Planning Bureau) and the Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD).
